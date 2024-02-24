@@ -1,7 +1,5 @@
 /**
  * Samuel Clear
- * CS 124: Data Structures and Algorithms
- * Section C
  * 9/10/2021
  */
 #include <iostream>
